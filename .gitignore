@@ -1,0 +1,11 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Material del taller que no hace parte del proyecto
+/kenney/
+/taller.pdf
+/Taller_Recolector_Monedas_Godot.pdf
+
+# Borrador del informe (no se entrega en el repositorio)
+/INFORME_BORRADOR.md
