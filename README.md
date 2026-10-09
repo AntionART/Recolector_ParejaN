@@ -2,7 +2,7 @@
 
 Taller en clase, Diseño Multimedia y Videojuegos. Godot 4.5.
 
-## Integrantes (pareja)
+## Integrantes
 
 - Daniel David Arteaga Perez
 - Erick Santiago Ocampo Marciales
