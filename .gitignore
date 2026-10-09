@@ -9,3 +9,10 @@
 
 # Borrador del informe (no se entrega en el repositorio)
 /INFORME_BORRADOR.md
+
+# Capturas para el informe
+/capturas/
+
+# Auditoria e informe PDF (se entregan aparte)
+/AUDITORIA.md
+/*.pdf
